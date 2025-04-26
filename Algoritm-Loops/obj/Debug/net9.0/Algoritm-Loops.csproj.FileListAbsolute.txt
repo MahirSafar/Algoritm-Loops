@@ -1,0 +1,14 @@
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\bin\Debug\net9.0\Algoritm-Loops.exe
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\bin\Debug\net9.0\Algoritm-Loops.deps.json
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\bin\Debug\net9.0\Algoritm-Loops.runtimeconfig.json
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\bin\Debug\net9.0\Algoritm-Loops.dll
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\bin\Debug\net9.0\Algoritm-Loops.pdb
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\obj\Debug\net9.0\Algoritm-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\obj\Debug\net9.0\Algoritm-Loops.AssemblyInfoInputs.cache
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\obj\Debug\net9.0\Algoritm-Loops.AssemblyInfo.cs
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\obj\Debug\net9.0\Algoritm-Loops.csproj.CoreCompileInputs.cache
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\obj\Debug\net9.0\Algoritm-Loops.dll
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\obj\Debug\net9.0\refint\Algoritm-Loops.dll
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\obj\Debug\net9.0\Algoritm-Loops.pdb
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\obj\Debug\net9.0\Algoritm-Loops.genruntimeconfig.cache
+C:\Users\mahir\Desktop\Algoritm-Loops\Algoritm-Loops\obj\Debug\net9.0\ref\Algoritm-Loops.dll
